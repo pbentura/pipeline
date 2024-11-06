@@ -3,7 +3,7 @@ name: Build and Test Workflow
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   FILE_NAME: app.txt
